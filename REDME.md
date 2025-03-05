@@ -1,5 +1,5 @@
 <div align="center">
-**✨ Full Stack Realtime Chat App ✨**</h3>
+✨ Full Stack Realtime Chat App ✨</h3>
 </div>
 
 ## **🚀 Highlights**  
@@ -54,25 +54,19 @@ npm start
 ---
 
 ## **🌐 Live Demo**  
-[**Click here to try the app live**](#) _(Replace with actual live link if hosted)_  
+[**Click here to try the app live**](https://chatx-oyba.onrender.com/login)
 
 ---
 
 ## **🖼️ Screenshots**
 
 ### Chat App Interface
-![Chat App UI Screenshot](https://via.placeholder.com/800x400?text=Chat+App+Interface+Preview)
+![Chat App UI Screenshot](https://github.com/singhabhishek98/ChatX/blob/main/UI)
 
 ---
 
 ## **👨‍💻 Author**  
-Made with ❤️ by [Abhishek Singh](https://www.linkedin.com/in/itsabhishek98/)
+<h2> Do not forget to give a star!⭐🤗 </h2>
+<div align="right">
+  <h3>Made with ❤️ by Abhishek Singh</h3>
 
----
-
-## **📜 License**  
-This project is licensed under the MIT License.
-
----
-
-Now your README is **visually appealing** and informative. Feel free to replace the placeholders (like the demo app image and live link) with actual content. Let me know if you need any changes! 😊
