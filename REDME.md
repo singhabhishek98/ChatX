@@ -1,10 +1,6 @@
-Here's your **attractive and professional** README for the **Full Stack Realtime Chat App**:
-
----
-
-# **✨ Full Stack Realtime Chat App ✨**  
-
-![Demo App](https://via.placeholder.com/800x400?text=Realtime+Chat+App+Demo)
+<div align="center">
+**✨ Full Stack Realtime Chat App ✨**</h3>
+</div>
 
 ## **🚀 Highlights**  
 
