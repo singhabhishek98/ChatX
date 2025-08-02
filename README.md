@@ -73,7 +73,6 @@ The ping script will:
 **Note:** Run this script on a separate service or your local machine to keep your deployed app active.
 
 ---
-
 ## **🌐 Live Demo**  
 [**Click here to try the app live**](https://chatx-oyba.onrender.com/login)
 
